@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **hiteshrawal600@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/rawalhitesh](www.linkedin.com/in/rawalhitesh)
+- 📄 Know about my experiences **www.linkedin.com/in/rawalhitesh**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
