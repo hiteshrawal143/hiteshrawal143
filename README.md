@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Full Stack Blockchain developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Solidity, Hardhat,Truffle and DEFI**
+- 🌱 I’m currently learning **NodeJS, Solidity, Hardhat,Truffle and DEFI**
 
 - 💬 Ask me about **Blockchain, Solidity,**
 
