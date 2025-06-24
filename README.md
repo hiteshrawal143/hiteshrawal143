@@ -1,7 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/f3ab2121443ceb480c393145498e4640afc961528fb3c7b0a0ae74dd420ec71d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62332f32362f35312f62333236353137636438636134346239333961316265653431613766313033632e676966)
 
 <h1 align="center">Hi 👋, I'm Rawal Hitesh Kumar</h1>
-<h3 align="center">A Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Tableau**
